@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kurssilista/static/css/main.e6c13ad2.css",
+    "main.js": "/kurssilista/static/js/main.55c62720.js",
+    "static/js/453.2f021e29.chunk.js": "/kurssilista/static/js/453.2f021e29.chunk.js",
+    "index.html": "/kurssilista/index.html",
+    "main.e6c13ad2.css.map": "/kurssilista/static/css/main.e6c13ad2.css.map",
+    "main.55c62720.js.map": "/kurssilista/static/js/main.55c62720.js.map",
+    "453.2f021e29.chunk.js.map": "/kurssilista/static/js/453.2f021e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.55c62720.js"
+  ]
+}
